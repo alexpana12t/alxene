@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Như Ý - Hoạt Động Giải Trí</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #e0f7fa;
+            color: #004d75;
+        }
+        header {
+            background-color: #007bb5;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            margin: 0;
+        }
+        nav {
+            background-color: #005f87;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 10px;
+            margin: 0 10px;
+        }
+        section {
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        footer {
+            background-color: #007bb5;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        .story {
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin-top: 20px;
+        }
+        .story h2 {
+            color: #005f87;
+        }
+        .story p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Như Ý - Hoạt Động Giải Trí</h1>
+        <p>Chia sẻ đam mê đạp xe và những câu chuyện giải trí.</p>
+    </header>
+
+    <nav>
+        <a href="#">Trang Chủ</a>
+        <a href="#">Truyện Ngắn</a>
+        <a href="#">Liên Hệ</a>
+    </nav>
+
+    <section>
+        <h2>Giới Thiệu</h2>
+        <p>Xin chào! Tôi là Như Ý, một người đam mê đạp xe và yêu thích việc chia sẻ những câu chuyện về các hoạt động giải trí. Trang web này là nơi tôi sẽ kể những câu chuyện nhỏ và những trải nghiệm thú vị trong cuộc sống.</p>
+
+        <div class="story">
+            <h2>Truyện Ngắn: Chuyến Đi Đạp Xe Đầu Tiên</h2>
+            <p>Đó là một buổi sáng sớm đẹp trời, tôi quyết định tham gia chuyến đi đạp xe dài nhất trong đời mình. Những con đường quê thanh bình, không khí trong lành và cảnh vật xung quanh khiến tôi cảm thấy tự do và thư thái. Tôi không chỉ trải nghiệm cảm giác phóng khoáng khi lướt trên những con đường, mà còn cảm nhận được sự kết nối với thiên nhiên.</p>
+            <p>Chuyến đi kéo dài suốt ba giờ đồng hồ, nhưng với tôi, nó dường như trôi qua trong chớp mắt. Đó là một trải nghiệm khó quên, và từ đó, niềm đam mê đạp xe ngày càng lớn dần trong tôi.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Như Ý - Đam mê đạp xe và truyện giải trí</p>
+    </footer>
+
+</body>
+</html>
